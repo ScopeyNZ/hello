@@ -1,3 +1,4 @@
 {
-  "something": "test"
+  "npm": true,
+  "buildScripts": ["test"]
 }
